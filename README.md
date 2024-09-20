@@ -17,6 +17,6 @@
 - [x] CQRS with MediatR Library
 - [x] Clean Architecture
 - [x] Dapper Command Side 
-- [x] SQL Server
+- [x] Microsoft SQL Server
 - [x] Repository Pattern 
 - [x] JWT Auth  
