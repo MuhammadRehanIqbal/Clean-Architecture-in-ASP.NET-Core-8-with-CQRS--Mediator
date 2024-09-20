@@ -7,7 +7,7 @@
   <p align="center">
     ASP.NET Core Web Api Template built with CQRS/MediatR pattern with Dapper for data access. 
     This template is built with a clean architecture approach. With Dapper being used for queries against the database and EF Core for commands.
-    Project is using Sqlite database in the infrastructure layer for building & testing. This is could easily be switched out during finalization of built project for SQL Server or other database provider.
+    Project is using Microsoft SQL Server database in the infrastructure layer for building & testing.
   </p>
 </p>
 
