@@ -1,0 +1,12 @@
+C:\Source\WebApi\CleanArch.Core\bin\Debug\net8.0\CleanArch.Core.deps.json
+C:\Source\WebApi\CleanArch.Core\bin\Debug\net8.0\CleanArch.Core.dll
+C:\Source\WebApi\CleanArch.Core\bin\Debug\net8.0\CleanArch.Core.pdb
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.csproj.AssemblyReference.cache
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.AssemblyInfoInputs.cache
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.AssemblyInfo.cs
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.csproj.CoreCompileInputs.cache
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.dll
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\refint\CleanArch.Core.dll
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\CleanArch.Core.pdb
+C:\Source\WebApi\CleanArch.Core\obj\Debug\net8.0\ref\CleanArch.Core.dll

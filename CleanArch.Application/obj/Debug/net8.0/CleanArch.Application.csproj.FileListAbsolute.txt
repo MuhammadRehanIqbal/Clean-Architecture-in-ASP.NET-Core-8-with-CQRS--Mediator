@@ -1,0 +1,15 @@
+C:\Source\WebApi\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+C:\Source\WebApi\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+C:\Source\WebApi\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\Source\WebApi\CleanArch.Application\bin\Debug\net8.0\CleanArch.Core.dll
+C:\Source\WebApi\CleanArch.Application\bin\Debug\net8.0\CleanArch.Core.pdb
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+C:\Source\WebApi\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll
