@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "CleanArch.API.Controllers.Auth.UsersController",
+    "Method": "GetBalance",
+    "RelativePath": "users/auth/balance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "CleanArch.Application.Authentication.Queries.Balance.BalanceQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArch.API.Controllers.Auth.UsersController",
+    "Method": "FindUserByIdAsynctst",
+    "RelativePath": "users/auth/balancetst",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArch.API.Controllers.Auth.UsersController",
+    "Method": "Login",
+    "RelativePath": "users/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "CleanArch.Application.Authentication.Queries.Login.LoginQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CleanArch.API.Controllers.Auth.UsersController",
+    "Method": "Register",
+    "RelativePath": "users/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CleanArch.Application.Authentication.Commands.Register.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
