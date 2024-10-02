@@ -8,6 +8,5 @@ using System.Threading.Tasks;
 namespace CleanArch.Application.Countries.GetAllCountry
 {
     public class GetAllCountryQuery : IRequest<List<CountryResponse>>
-    {
-    }
+    {    }
 }

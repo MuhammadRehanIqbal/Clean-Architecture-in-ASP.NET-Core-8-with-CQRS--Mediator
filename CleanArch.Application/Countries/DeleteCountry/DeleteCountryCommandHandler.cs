@@ -24,6 +24,7 @@ namespace CleanArch.Application.Countries.DeleteCountry
 
             await _countryrepository.DeleteCountry(command.Id); 
             return true;
+
         }
     }
 }

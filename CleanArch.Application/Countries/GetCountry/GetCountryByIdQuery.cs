@@ -8,6 +8,5 @@ using System.Threading.Tasks;
 
 namespace CleanArch.Application.Countries.GetCountry
 {
-
     public record GetCountryByIdQuery(int Id) : IRequest<CountryResponse>; 
 }
