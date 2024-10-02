@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanArch.Application
-build_property.ProjectDir = C:\Source\WebApi\CleanArch.Application\
+build_property.ProjectDir = C:\Source\WebApi\MuhammadRehanIqbal\Clean-Architecture-in-ASP.NET-Core-8-with-CQRS--Mediator\CleanArch.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
