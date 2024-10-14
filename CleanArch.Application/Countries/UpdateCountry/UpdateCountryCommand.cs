@@ -13,5 +13,6 @@ namespace CleanArch.Application.Countries.UpdateCountry
         public string Iso { get; set; }
         public string Name { get; set; }
         public int PhoneCode { get; set; }
+
     }
 }

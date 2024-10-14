@@ -16,7 +16,6 @@ namespace CleanArch.Application.Countries.GetCountry
     {
             _countryrepository = countryrepository;
     }
-
     public async Task<CountryResponse> Handle(GetCountryByIdQuery query, CancellationToken cancellationToken)
     {
         var country = await _countryrepository.GetCountryById(query.Id);
