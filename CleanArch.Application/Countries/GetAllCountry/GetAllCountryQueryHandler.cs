@@ -27,5 +27,6 @@ namespace CleanArch.Application.Countries.GetAllCountry
                 PhoneCode = country.PhoneCode
             }).ToList();
         }  
+
     }
 }

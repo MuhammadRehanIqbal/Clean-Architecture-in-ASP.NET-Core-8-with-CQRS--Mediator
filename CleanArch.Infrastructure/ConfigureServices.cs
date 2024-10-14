@@ -39,7 +39,10 @@ namespace CleanArch.Infrastructure
         {
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ICountryRepository, CountryRepository>();
+<<<<<<< HEAD
 
+=======
+>>>>>>> CQRS-Mediatorr
             //services.AddScoped<ITransactionsRepository, TransactionsRepository>();
             //services.AddScoped<IDispositionRepository, DispositionRepository>();
 
