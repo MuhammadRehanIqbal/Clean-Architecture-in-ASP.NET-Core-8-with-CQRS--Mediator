@@ -14,5 +14,6 @@ namespace CleanArch.Application.Countries.CreateCountry
         public string Iso { get; set; }
         public string Name { get; set; }
         public int PhoneCode { get; set; }
+
     }
 }

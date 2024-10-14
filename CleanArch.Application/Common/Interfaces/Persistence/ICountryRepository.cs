@@ -14,5 +14,6 @@ namespace CleanArch.Application.Common.Interfaces.Persistence
         Task<Country> GetCountryById(int Id);
         Task UpdateCountry(Country country);
         Task DeleteCountry(int Id);
+
     } 
 }

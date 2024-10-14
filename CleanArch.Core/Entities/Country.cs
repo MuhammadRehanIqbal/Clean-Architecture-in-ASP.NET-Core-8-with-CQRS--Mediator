@@ -13,5 +13,6 @@ namespace CleanArch.Core.Entities
         public string Name { get; set; }
         public int PhoneCode { get; set; }
 
+
     }
 }

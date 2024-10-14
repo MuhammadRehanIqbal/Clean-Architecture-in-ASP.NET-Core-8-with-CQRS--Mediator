@@ -39,7 +39,7 @@ namespace CleanArch.Infrastructure
         {
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<ICountryRepository, CountryRepository>();
-            //services.AddScoped<ITransactionsRepository, TransactionsRepository>();
+
             //services.AddScoped<IDispositionRepository, DispositionRepository>();
 
             return services;
