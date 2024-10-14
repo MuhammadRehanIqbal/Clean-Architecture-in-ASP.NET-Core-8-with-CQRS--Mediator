@@ -16,7 +16,6 @@ namespace CleanArch.Application.Countries.UpdateCountry
         {
             _countryRepository = countryRepository;
         }
-
         public async Task<bool> Handle(UpdateCountryCommand command, CancellationToken cancellationToken)
         {
             // Get the country to be updated

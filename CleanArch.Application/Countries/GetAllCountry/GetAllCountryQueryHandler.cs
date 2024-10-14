@@ -11,7 +11,6 @@ namespace CleanArch.Application.Countries.GetAllCountry
     public class GetAllCountryQueryHandler : IRequestHandler<GetAllCountryQuery, List<CountryResponse>>
     {
         private readonly ICountryRepository _countryrepository;
-
         public GetAllCountryQueryHandler(ICountryRepository countryrepository)
         {
             _countryrepository = countryrepository;

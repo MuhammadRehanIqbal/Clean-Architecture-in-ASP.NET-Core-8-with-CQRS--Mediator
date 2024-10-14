@@ -29,7 +29,6 @@ namespace CleanArch.API.Controllers.Country
         public async Task<IActionResult> GetCountryById([FromBody] GetCountryByIdQuery query)
         {
             return Ok(await Mediator.Send(query));
-
         }
         [HttpPost("UpdateCountry")]
         public async Task<IActionResult> UpdateCountry([FromBody] UpdateCountryCommand command)

@@ -13,7 +13,6 @@ namespace CleanArch.Application.Countries.CreateCountry
     public class CreateCountryCommandHandler : IRequestHandler<CreateCountryCommand, bool>
     {
         private readonly ICountryRepository _countryRepository;
-
         public CreateCountryCommandHandler(ICountryRepository countryRepository)
         {
             _countryRepository = countryRepository;

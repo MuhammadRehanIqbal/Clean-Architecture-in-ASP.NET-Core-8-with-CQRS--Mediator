@@ -8,5 +8,4 @@ using System.Threading.Tasks;
 namespace CleanArch.Application.Countries.DeleteCountry
 {
     public record DeleteCountryCommand(int Id) : IRequest<bool>;
-
 }

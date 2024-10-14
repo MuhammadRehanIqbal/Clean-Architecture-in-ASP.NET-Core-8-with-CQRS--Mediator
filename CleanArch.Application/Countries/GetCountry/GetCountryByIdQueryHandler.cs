@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CleanArch.Application.Countries.GetCountry
 {
-    public class GetCountryByIdQueryHandler : IRequestHandler<GetCountryByIdQuery, CountryResponse>
+public class GetCountryByIdQueryHandler : IRequestHandler<GetCountryByIdQuery, CountryResponse>
 {
     private readonly ICountryRepository _countryrepository;
 
